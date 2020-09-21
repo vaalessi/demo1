@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am a change line.
+=======
+I am a changed file, but special in my own way. 
+>>>>>>> 5b5a0745f5476626f12747f880bd0b2eaac115b7
